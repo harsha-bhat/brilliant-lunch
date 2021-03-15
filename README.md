@@ -1,4 +1,4 @@
-# meeting-calc
+# brilliant-lunch
 Meeting Time Caclulator
 
 
