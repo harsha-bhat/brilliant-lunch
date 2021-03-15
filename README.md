@@ -1,9 +1,8 @@
 # brilliant-lunch
-Meeting Time Caclulator
+Find free time for a lunch meeting based on calendar schedules.
 
 
 # Setup
-
 
 Run `npm install` to install dependencies.
 
